@@ -94,7 +94,7 @@ When Layer 1 ≠ Layer 2, the algorithm reports a gap: the source level addresse
 MDSIV is a single HTML file with zero dependencies. No build step, no npm, no framework.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mdsiv.git
+git clone https://github.com/jherrodthomas/mdsiv.git
 open mdsiv/src/index.html
 ```
 
@@ -107,7 +107,7 @@ To host it publicly:
 1. Fork this repository
 2. Go to Settings → Pages
 3. Set source to `main` branch, `/src` folder
-4. Your converter is live at `https://YOUR_USERNAME.github.io/mdsiv/`
+4. Your converter is live at `https://jherrodthomas.github.io/mdsiv/`
 
 ### Embed in Your Documentation
 
@@ -247,7 +247,7 @@ If you use MDSIV in academic work, please cite:
   title  = {MDSIV: Multi-Domain Safety Integrity Verification},
   author = {Herrod, J.},
   year   = {2026},
-  url    = {https://github.com/YOUR_USERNAME/mdsiv},
+  url    = {https://github.com/jherrodthomas/mdsiv},
   note   = {Deterministic two-layer algorithm for cross-standard
             safety integrity level mapping}
 }
